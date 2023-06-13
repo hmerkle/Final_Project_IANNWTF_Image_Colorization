@@ -80,7 +80,3 @@ os.environ['KAGGLE_CONFIG_DIR'] = "/content"
 !kaggle datasets download -d awsaf49/coco-2017-dataset # coco2017
 ```
 ***
-
-
-## 6.Examples
-We trained the model with a CoCO
