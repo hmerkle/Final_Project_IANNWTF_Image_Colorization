@@ -7,12 +7,7 @@
 [Link to requirenments](https://studip.uni-osnabrueck.de/sendfile.php?type=0&file_id=9d06087b66248e3c02957105cd037e4e&file_name=The_Path_towards_a_final_Project.pdf) <br />
 
 1. Introduction
-2. Structure
-3. Requirements
-4. Functionalities
-5. Troubleshootings
-6. Examples
-7. Sources
+2. Requirements
 
 ## 1. Introduction
 In this Project we implemented a convolutional generative adversial network to generate colorful images from greyscaled images. For this purpose we took the paper from Isola at al as a starting point for our model. With different techniques we tried to improve the generative performance of the model. You can find more informatmation in our[paper](Image Colorization - Methods and Applications).
